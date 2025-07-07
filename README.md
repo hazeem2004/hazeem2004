@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazeem Ahmad</h1>
 <h3 align="center">A passionate Full Stack Developer and Devops Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazeem2004&label=Profile%20views&color=0e75b6&style=flat" alt="hazeem2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazeem2004" alt="hazeem2004" /></a> </p>
 
 - 🌱 I’m currently learning **Azure**
 
